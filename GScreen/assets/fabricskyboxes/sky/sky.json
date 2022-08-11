@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "type": "single-sprite-square-textured",
+  "properties": {
+    "fade": {
+      "startFadeIn": 0,
+      "endFadeIn": 0,
+      "startFadeOut": 0,
+      "endFadeOut": 0,
+      "alwaysOn": true
+    },
+    "maxAlpha": 1.0,
+    "changeFog": false,
+    "fogColors": {
+        "red": 0,
+        "blue": 0,
+        "green": 0,
+        "alpha": 0
+    },
+    "sunSkyTint": false
+  },
+  "decorations": {
+    "showSun": true,
+    "showMoon": true,
+    "showStars": true
+  },
+  "texture": "harvel:skybox/green.png"
+}
